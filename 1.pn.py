@@ -1,7 +1,7 @@
-n=int(input())
-if n>0:
-	print("positive")
-elif n<0:
-	print("negative")
+m=int(input())
+if m>0:
+	print("Positive")
+elif m<0:
+	print("Negative")
 else:
-	print("zero")
+	print("Zero")
